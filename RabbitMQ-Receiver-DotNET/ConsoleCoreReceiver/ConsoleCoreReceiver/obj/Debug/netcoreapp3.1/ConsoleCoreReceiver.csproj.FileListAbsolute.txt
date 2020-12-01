@@ -1,0 +1,14 @@
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/bin/Debug/netcoreapp3.1/ConsoleCoreReceiver.deps.json
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/bin/Debug/netcoreapp3.1/ConsoleCoreReceiver.runtimeconfig.json
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/bin/Debug/netcoreapp3.1/ConsoleCoreReceiver.runtimeconfig.dev.json
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/bin/Debug/netcoreapp3.1/ConsoleCoreReceiver.dll
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/bin/Debug/netcoreapp3.1/ConsoleCoreReceiver.pdb
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/obj/Debug/netcoreapp3.1/ConsoleCoreReceiver.csprojAssemblyReference.cache
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/obj/Debug/netcoreapp3.1/ConsoleCoreReceiver.csproj.CoreCompileInputs.cache
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/obj/Debug/netcoreapp3.1/ConsoleCoreReceiver.AssemblyInfoInputs.cache
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/obj/Debug/netcoreapp3.1/ConsoleCoreReceiver.AssemblyInfo.cs
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/obj/Debug/netcoreapp3.1/ConsoleCoreReceiver.csproj.CopyComplete
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/obj/Debug/netcoreapp3.1/ConsoleCoreReceiver.dll
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/obj/Debug/netcoreapp3.1/ConsoleCoreReceiver.pdb
+/Users/cloudmustafa/Projects/RabbitMQ-Receiver-DotNET/ConsoleCoreReceiver/ConsoleCoreReceiver/obj/Debug/netcoreapp3.1/ConsoleCoreReceiver.genruntimeconfig.cache

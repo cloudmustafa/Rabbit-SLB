@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KMcP6FoR2s0jJJkCe6D60HvWoqR6EoYrMciixqKzV2FsMMEQzBbXdtWiq554Fg/KIEf7ntt7c1av0/e3NkyN0w==",
+  "success": true,
+  "projectFilePath": "/Users/cloudmustafa/Projects/RabbitMQ--Sender-DotNet/ConsoleApp4/ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "/Users/cloudmustafa/.nuget/packages/rabbitmq.client/6.0.0/rabbitmq.client.6.0.0.nupkg.sha512",
+    "/Users/cloudmustafa/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/cloudmustafa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
